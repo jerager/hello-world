@@ -4,7 +4,7 @@ public class test {
   int j = 5;
   
   if ( i<j )
-    if (i+15 < j)
+    if (i+15 < j+9)
       System.out.println(34);
       }
       }
